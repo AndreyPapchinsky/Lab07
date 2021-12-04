@@ -38,6 +38,5 @@ namespace Lab07
             else
                 return false;
         }
-
     }
 }
